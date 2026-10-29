@@ -36,8 +36,5 @@ The application uses the Iris dataset provided by scikit-learn.
 The application was deployed on an Ubuntu EC2 instance
 using Flask and a security group rule for port 5000.
 
-Project Output
-
-Below is the screenshot of the deployed machine learning application.
 
 "ML Prediction Output" (./ml-prediction.png)
